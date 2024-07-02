@@ -1,4 +1,4 @@
-# Python_Exercícios_Estatisticas
+# Python_Exercícios_Estatística
 
 - Rotinas em Python para o cálculo de média, mediana, máximo, mínimo, valor p, regressão linear, distribuições, correlações e teste do qui-quadrado.
 - Os enunciados de cada problema encontram-se no arquivo "Projeto Questôes.pdf". 
